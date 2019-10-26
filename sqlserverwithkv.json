@@ -10,7 +10,7 @@
       },
       "sqlServerName": {
         "type": "string",
-        "defaultValue": "mfsqlsrv01"
+        "defaultValue": "mszsqlsrv01"
       }
     },
     "resources": [
